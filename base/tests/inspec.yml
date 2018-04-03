@@ -1,0 +1,8 @@
+name: PHP-55 With Composer
+title: PHP-5.5 Composer Container
+maintainer: Damacus
+copyright: Dan Webb
+copyright_email:
+license: Apache-2.0
+summary: An InSpec Compliance Profile for PHP7.1 with composer
+version: 0.1.0
