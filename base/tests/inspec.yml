@@ -1,8 +1,8 @@
-name: PHP-55 With Composer
-title: PHP-5.5 Composer Container
-maintainer: Damacus
-copyright: Dan Webb
-copyright_email:
-license: Apache-2.0
-summary: An InSpec Compliance Profile for PHP7.1 with composer
+name: OPG Base
+title: OPG Base
+maintainer: OPG WebOps
+copyright: opyright (c) 2018 Crown Copyright (Ministry of Justice)
+copyright_email: opgteam@digital.justice.gov.uk
+license: MIT
+summary: An InSpec Compliance Profile OPG Base
 version: 0.1.0
