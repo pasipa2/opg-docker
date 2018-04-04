@@ -4,3 +4,4 @@
 commit.txt
 id_rsa
 *.pem
+inspec.lock
